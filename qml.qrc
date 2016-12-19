@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.qml</file>
+        <file>resources/images/1.png</file>
+        <file>resources/images/2.png</file>
+        <file>resources/images/3.png</file>
+        <file>resources/images/4.png</file>
+        <file>resources/images/5.png</file>
+        <file>resources/images/6.png</file>
+        <file>resources/images/7.png</file>
+        <file>resources/images/8.png</file>
+        <file>resources/images/9.png</file>
+        <file>resources/images/10.png</file>
+        <file>resources/images/11.png</file>
+        <file>resources/images/12.png</file>
+        <file>pages/pageAlbum.qml</file>
+        <file>pages/pageLibrary.qml</file>
+        <file>pages/pageCards.qml</file>
+        <file>pages/pageHome.qml</file>
+    </qresource>
+</RCC>
